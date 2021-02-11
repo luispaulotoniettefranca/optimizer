@@ -1,6 +1,6 @@
 <?php
 
-namespace CoffeeCode\Optimizer;
+namespace Toniette\Optimizer;
 
 /**
  * Class CoffeeCode MetaTags
