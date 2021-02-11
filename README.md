@@ -109,7 +109,3 @@ echo $op->openGraph(
 <meta property="og:site_name" content="toniette"/>
 <meta property="og:locale" content="pt_BR"/>
 ````
-
-## Contributing
-
-Please see [CONTRIBUTING](https://github.com/robsonvleite/optimizer/blob/master/CONTRIBUTING.md) for details.
