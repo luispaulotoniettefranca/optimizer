@@ -142,4 +142,13 @@ class Optimizer extends MetaTags
 
         return $this;
     }
+
+    public function keywords(array $keywords)
+    {
+        $this->buildMeta("name", [
+            "keywords" => implode(", ", $keywords)
+        ]);
+
+        return $this;
+    }
 }
